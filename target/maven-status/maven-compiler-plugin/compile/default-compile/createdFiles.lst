@@ -1,0 +1,3 @@
+com\jmstest\util\Configuration.class
+com\jmstest\servlet\ProducerMessage.class
+com\jmstest\mdb\ReadMessageMDB.class
